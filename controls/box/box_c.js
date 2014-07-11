@@ -1,5 +1,5 @@
 /*
- * Breach: [mod_strip] box_d.js
+ * Breach: [mod_hernandez] box_d.js
  *
  * Copyright (c) 2014, Stanislas Polu. All rights reserved.
  *

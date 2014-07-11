@@ -1,5 +1,5 @@
 /*
- * Breach: [mod_strip] index.js
+ * Breach: [mod_hernandez] index.js
  *
  * Copyright (c) 2014, Stanislas Polu. All rights reserved.
  *
@@ -44,7 +44,7 @@ var bootstrap = function(http_srv) {
 
   breach.init(function() {
     breach.register('.*', 'devtools');
-    breach.register('mod_strip', 'box_.*');
+    breach.register('mod_hernandez', 'box_.*');
     breach.register('core', 'tabs:.*');
     breach.register('core', 'controls:keyboard');
   
